@@ -1,3 +1,5 @@
+![Header](readme_header.png "Header")
+
 ### Servus 👋,
 
 I'm Max, a computer science student at the Technische Hochschule Ingolstadt in germany.
